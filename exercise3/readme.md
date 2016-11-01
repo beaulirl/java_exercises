@@ -14,4 +14,4 @@ It is Enum for weekdays
 ## EnumTry Class
 It is the class there I use Enum 
 ## Main Class
-The class the I use other Classes
+The class there I use Sorting and Factorial
